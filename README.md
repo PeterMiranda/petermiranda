@@ -18,6 +18,12 @@ proyectos y mis intereses.
 * Sitio web: [petermiranda.github.io](https://petermiranda.github.io/petermiranda/)
 
 ## Tecnologías y Herramientas
+* PHP: Para backend y procesamiento de datos.
+* MySQL: Bases de datos para almacenamiento estructurado.
+* HTML/CSS/JavaScript: Frontend para interfaces web.
+* React: Para estructurar el frontend y backend.
+* Árbol Binario y Algoritmos: Utilizados en la implementación de inteligencia artificial en el juego "Tres-en-Ralla".
+* Estructuras de Datos (Arreglos, Listas, Objetos): Usadas para manejar información como perfiles de usuarios.
 
   
 ## Proyectos
